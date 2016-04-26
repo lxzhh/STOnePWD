@@ -1,0 +1,10 @@
+PODS:
+  - SVProgressHUD (2.0.2)
+
+DEPENDENCIES:
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  SVProgressHUD: e4020e23badbd7cc61bc4a80d3c1da57f166a978
+
+COCOAPODS: 0.39.0
